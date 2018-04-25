@@ -37,6 +37,14 @@ int main(int argc, const char * argv[]) {
 
     
     
+    std::cout << "Master \n";
+    std::cout << "Master \n";
+    std::cout << "Master \n";
+    std::cout << "Master \n";
+    std::cout << "Master \n";
+    std::cout << "Master \n";
+
+    
     
     
     return 0;
