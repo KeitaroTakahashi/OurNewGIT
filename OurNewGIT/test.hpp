@@ -10,5 +10,7 @@
 #define test_hpp
 
 #include <stdio.h>
+#include <iostream>
+
 
 #endif /* test_hpp */
