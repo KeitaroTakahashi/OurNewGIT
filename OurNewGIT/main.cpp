@@ -20,6 +20,9 @@ int main(int argc, const char * argv[]) {
     std::cout << "FREDERIC NOW POSSIBLY WORKING!!!!!!!!!!!" << std::endl;
     
     
+    std::cout << "My Place \n";
+
+    
     
     return 0;
 }
