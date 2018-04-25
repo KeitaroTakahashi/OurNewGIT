@@ -23,6 +23,21 @@ int main(int argc, const char * argv[]) {
     std::cout << "My Place \n";
 
     
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+    std::cout << "Hey this is Keitaro \n";
+
+    
+    
+    
     
     return 0;
 }
